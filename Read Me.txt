@@ -1,0 +1,23 @@
+This is my project on creating Contact Us Page using PHP and MySQL.
+In this project I have created a contact form which consists of Name,phone number,email,subject
+and message they want to send.
+This information can be viewed by the admin.
+So I have created admin page in which dashboard contains the contacts that send messages
+We can also get notifications that we received some message so that we can report back to them
+There is also an option to edit admin's profile 
+ 
+
+
+How to run my contact form
+
+1. Download the the zip file
+2. Extract the file and copy contactform folder
+3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
+4. Create a database with name contactdb
+5. Import contactdbfile(given inside the zip package in sql file folder)
+6.run the script http://localhost/contactform  (frontend)
+7. For admin panel  http://localhost/contactform/admin
+
+credential for admin panel :
+username : admin 
+Password : Test@123
